@@ -1,11 +1,11 @@
 title: Chun Sing Lau (Brian) # your name (or website title) here
 logo: "/images/linkedin profile pic.jfif?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Experienced insurance pricing analyst proficient in Excel VBA, SQL, and Python. Skilled communicator and collaborator. 
   <br><br>
-  Second description 
+  Aspiring data analyst with expertise in Python and Tableau. Completed Practicum Data Analyst course.
   <br><br>
   <a href="https://www.linkedin.com/in/briancslau/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-66GJECGJ0E # your Google Analytics tracking ID here
